@@ -1,15 +1,4 @@
-
-.DS_Store
-Raphael/.ipynb_checkpoints/fix_csv_sep-checkpoint.ipynb
-Py code/Untitled.ipynb
-full_word_list.txt/.~lock.full_word_list.txt#
-Py code/Untitled.ipynb
-Raphael/.ipynb_checkpoints/simpleSongStatExplorer-checkpoint.ipynb
-Raphael/stylometry/.Rhistory
-merged_data/words_songs_matched.csv
-merged_data/words_songs_matched.tar.gz
-Raphael/hot.csv
-Raphael/stylometry/ca.R
-Tableau/.~experiment__84835.twbr
-Raphael/.ipynb_checkpoints/Stat-checkpoint.ipynb
-Py code/.ipynb_checkpoints/Lyrics-base Analysis and Classification of Music.pdf
+*.yml
+*.bak
+.ipynb_checkpoints
+words_songs_matched.csv
