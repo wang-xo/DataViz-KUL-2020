@@ -79,3 +79,6 @@ ggplot() +
             col = "gray") +
   geom_point(data = texts_df,
              mapping = aes(x = x, y = y, col = genre))
+
+
+#data[row.names(!is.na(genre))]
