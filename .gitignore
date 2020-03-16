@@ -2,3 +2,11 @@
 *.bak
 .ipynb_checkpoints
 words_songs_matched.csv
+merged_data/words_songs_matched.tar.gz
+merged_data/.DS_Store
+PythonSrc/.DS_Store
+Raphael/.DS_Store
+Raphael/hot.csv
+full_word_list.txt/.~lock.full_word_list.txt#
+.DS_Store
+Raphael/stylometry/.Rhistory
