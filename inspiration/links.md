@@ -11,4 +11,6 @@ The heart graph - for the potential love/heart theme https://www.flerlagetwins.c
 
 [How People Like You Spend Their Time](https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/)
 
-[NameVoyager ](https://www.babynamewizard.com/voyager#prefix=&sw=both&exact=false) Type a word to see the popularity of the word in lyrics?
+[NameVoyager](https://www.babynamewizard.com/voyager#prefix=&sw=both&exact=false) Type a word to see the popularity of the word in lyrics?
+
+[How Americans Die](https://www.bloomberg.com/graphics/dataview/how-americans-die/) Storystorying slider, if one visualization is not enough.
