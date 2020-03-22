@@ -5,3 +5,5 @@
 [Distribution of Artist Hotttness over year (data with LAT, LONG) with tagtraum genre](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-20Mar/DistributionofSongHotttnessoveryearplusgenretagtraum)
 
 [Genre over Geo (data with LAT, LONG)](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-20Mar/GenreOverGeo)
+
+[Distribution of Song Hotttness over year](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-20Mar-2/Songhotttnessovertime)
