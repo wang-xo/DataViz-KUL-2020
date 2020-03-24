@@ -10,3 +10,5 @@ Raphael/hot.csv
 full_word_list.txt/.~lock.full_word_list.txt#
 .DS_Store
 Raphael/stylometry/.Rhistory
+merged_data/readme.ipynb
+merged_data/words_songs_matched.csv.bz2
