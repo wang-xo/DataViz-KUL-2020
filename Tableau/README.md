@@ -10,4 +10,4 @@
 
 [Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet102?publish=yes)
 
-[How egocentric is a song?](https://10ax.online.tableau.com/t/testtablequdev345119/views/Lyricsfirstinfo/Dashboard2?:origin=card_share_link&:embed=n)
+[How egocentric is a song?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard2?publish=yes)
