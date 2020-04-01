@@ -1,0 +1,4 @@
+{INCLUDE [word_m]: SUM([count])}*
+LOG(49989/{Fixed [word_m]: COUNT([word_m])})
+
+49,989 is supposed to be the total number of tracks
