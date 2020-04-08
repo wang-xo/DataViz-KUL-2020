@@ -13,3 +13,9 @@
 [How egocentric is a song?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard2?publish=yes)
 
 [Get connected word v1](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-25Mar3-2/Dashboard1)
+
+[Get connected word v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv2/Dashboard1) tf*idf track level
+
+[Get connected word v3](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-8Apr-3/Dashboard1) tf*idf dataset level
+
+[Characterizing musical genres](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet132?publish=yes)
