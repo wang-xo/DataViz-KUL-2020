@@ -1,0 +1,13 @@
+Get connected word v2
+tf = count of the target word in a track/count of the word with max count in a track
+idf = log2(total no. of tracks/count of track with the target word)
+
+varing tf*idf metrics for the target word across tracks.
+
+can work with agg func: mean, mode, median, max of the tf*idf metrics for the target word
+
+Get connected word v3
+tf = count of the target word in the dataset/count of the word with max count in the dataset
+idf = log2(total no. of tracks/count of track with the target word)
+
+single tf*idf metrics.
