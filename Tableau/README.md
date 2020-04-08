@@ -14,4 +14,6 @@
 
 [Get connected word v1](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-25Mar3-2/Dashboard1)
 
-[Get connected word v2](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-8Apr/Dashboard1) tf*idf dataset level
+[Get connected word v2](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-8Apr-2/Dashboard1?publish=yes) tf*idf dataset level
+
+[Characterizing musical genres](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet132?publish=yes)
