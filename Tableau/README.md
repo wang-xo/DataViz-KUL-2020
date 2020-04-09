@@ -19,3 +19,5 @@
 [Get connected word v3](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-8Apr-3/Dashboard1) tf*idf dataset level
 
 [Characterizing musical genres](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet132?publish=yes)
+
+[How representative are these words?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet133?publish=yes)
