@@ -8,7 +8,7 @@
 
 [Distribution of Song Hotttness over year](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-20Mar-2/Songhotttnessovertime)
 
-[Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet102?publish=yes)
+[Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard3?publish=yes)
 
 [How egocentric is a song?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard2?publish=yes)
 
