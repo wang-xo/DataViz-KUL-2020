@@ -21,3 +21,6 @@
 [Characterizing musical genres](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet132?publish=yes)
 
 [How representative are these words?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet133?publish=yes)
+
+[Get connected word v2.1 pos v1](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv2_1-posv1/Dashboard1)
+added POS (experimental), added Tier (Log10 of count)
