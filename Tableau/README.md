@@ -8,7 +8,7 @@
 
 [Distribution of Song Hotttness over year](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-20Mar-2/Songhotttnessovertime)
 
-[Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet102?publish=yes)
+[Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard3?publish=yes)
 
 [How egocentric is a song?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard2?publish=yes)
 
@@ -21,3 +21,6 @@
 [Characterizing musical genres](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet132?publish=yes)
 
 [How representative are these words?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet133?publish=yes)
+
+[Get connected word v2.1 pos v1](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv2_1-posv1/Dashboard1)
+added POS (experimental), added Tier (Log10 of count)
