@@ -24,3 +24,6 @@
 
 [Get connected word v2.1 pos v1](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv2_1-posv1/Dashboard1)
 added POS (experimental), added Tier (Log10 of count)
+
+[Get connected word v4.2 pos v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv4_2-posv2/Dashboard3)
+POSv2, Popular and unique connection, connected word bubble clickable
