@@ -8,19 +8,11 @@
 
 [Distribution of Song Hotttness over year](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-20Mar-2/Songhotttnessovertime)
 
-[Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard3?publish=yes)
-
-[How egocentric is a song?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Dashboard2?publish=yes)
-
 [Get connected word v1](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-25Mar3-2/Dashboard1)
 
 [Get connected word v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv2/Dashboard1) tf*idf track level
 
 [Get connected word v3](https://public.tableau.com/profile/chauraph#!/vizhome/Raphael-experiment-8Apr-3/Dashboard1) tf*idf dataset level
-
-[Characterizing musical genres](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet132?publish=yes)
-
-[How representative are these words?](https://public.tableau.com/profile/hugo5726#!/vizhome/Lyricsfirstinfo/Sheet133?publish=yes)
 
 [Get connected word v2.1 pos v1](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv2_1-posv1/Dashboard1)
 added POS (experimental), added Tier (Log10 of count)
@@ -28,4 +20,8 @@ added POS (experimental), added Tier (Log10 of count)
 [Get connected word v4.2 pos v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv4_2-posv2/Dashboard3)
 POSv2, Popular and unique connection, connected word bubble clickable
 
-[Track Lyrics Bubble Chart](https://public.tableau.com/profile/hugo5726#!/vizhome/Genre-TrackBubbleChart/TrackDashboard)
+[UPDATED Track Lyrics Bubble Chart](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/ConnectedWordsGenre)
+
+[UPDATED Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/GeneralEgoPosition?publish=yes)
+
+[Sample Song Genres](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/ExploreaSong)
