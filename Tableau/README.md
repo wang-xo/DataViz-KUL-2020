@@ -20,8 +20,8 @@ added POS (experimental), added Tier (Log10 of count)
 [Get connected word v4.2 pos v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv4_2-posv2/Dashboard3)
 POSv2, Popular and unique connection, connected word bubble clickable
 
-[UPDATED Track Lyrics Bubble Chart](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/ConnectedWordsGenre)
+[UPDATED Track Lyrics Bubble Chart](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/DashboardConnect)
 
-[UPDATED Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/GeneralEgoPosition?publish=yes)
+[UPDATED Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/DashboardYearlyEgo)
 
-[Sample Song Genres](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/ExploreaSong)
+[Sample Song Genres](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/DashboardExplore)
