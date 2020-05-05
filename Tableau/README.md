@@ -25,3 +25,9 @@ POSv2, Popular and unique connection, connected word bubble clickable
 [UPDATED Yearly ego position](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/DashboardYearlyEgo)
 
 [Sample Song Genres](https://public.tableau.com/profile/hugo5726#!/vizhome/LyricsDashbords/DashboardExplore)
+
+[Get connected word v5 pos v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv5posv280on/createyourownlyricY)
+Year-based
+
+[Get connected word v5 pos v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv5posv280on/createyourownlyricG)
+Genre-based
