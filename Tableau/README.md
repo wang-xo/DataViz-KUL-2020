@@ -31,3 +31,5 @@ Year-based
 
 [Get connected word v5 pos v2](https://public.tableau.com/profile/chauraph#!/vizhome/Getconnectedwordv5posv280on/createyourownlyricG)
 Genre-based
+
+[Chord-dashboard1](https://public.tableau.com/profile/martina.verna8624#!/vizhome/Chord-dashboard1/Dashboard1?publish=yes)
