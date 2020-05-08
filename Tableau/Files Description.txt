@@ -1,0 +1,50 @@
+words_songs_matched.csv (2.2G)
+  The big word-track file shared through Google Drive.
+  Columns kept: count, title, artist_name, year, artist_hotttnesss
+
+mxm_reverse_mapping_lang_stop.csv (105k, in the Git Hub)
+  Used to match the stem words from the previous file with the complete words.
+  Also includes language and stopword annotation.
+  Columns kept: stem, word_m, lang_GT_API, stopword
+
+msd_tagtraum_cd2c.cls.csv (4.71M, in the Git Hub)
+  Includes the genre annotation.
+  Columns kept: trackId, majority-genre
+
+New Files that I calculated. Includes tracks from 1980 to 2010.
+  80on_matched_genre_avg.csv
+        Created for calculating the above average weight (above_avg).
+        Columns kept:
+          tracks_word_g : number of genre-tracks with a target-word.
+          example: 'the'  -> 15 Rock-tracks use this word
+                          -> 20 Rap-tracks use this word (Not actual numbers)
+
+          tracks_count_g : number of genre-tracks.
+          example:  Rock  ->  30 Rock-Tracks in total in this file
+                    Rap   ->  20 Rap-Tracks in total in this file
+
+          word_freq_g : division of the previous measures (tracks_word_g/tracks_count_g).
+          example:  'the' in Rock -> 15/30 = 0.5
+                    'the' in Rap  -> 20/20 = 1
+
+          mean_freq_all_g: average of the word_freq_g for all genres.
+          example:  'the' -> [ 0.5 + 1 ] / 2 = [ 1.5] / 2 = 0.75
+
+          above_avg : difference between word_freq_g and mean_freq_all_g.
+          Set to zero if word_freq_g is smaller than mean_freq_all_g.
+          example:  Rock -> 0.5 - 0.75 = -0.25 . Since this is negative, set 0.
+                    Rap -> 1 - 0.75 = 0.25 . Since it's positive, keep 0.25.
+  80on_word_genre.csv
+        Variant of the previous file. Includes common columns with the previous file.
+        Columns kept:
+        word_(80on): the target word in question. (kept to match with the other files)
+
+        genre_weight :  maximum word_freq_g for a word.
+        example : 'the' -> 1 (corresponds to Rap's word_freq_g value because
+                              this value is the maximum)
+
+        word_genre: If the Track using a word is of the genre with the maximum
+        word_freq_g, then the genre is kept. Zero if the Track is not of the genre
+        with the maximum word_freq_g.
+        example : 'the' in a Rock-track -> 0 (Rock does not have the max word_freq_g)
+                  'the' in a Rap-track -> 'Rap' (Rap has the max word_freq_g)
